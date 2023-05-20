@@ -1,3 +1,6 @@
+.idea
+cats*
+owners*
 # Logs
 logs
 *.log
